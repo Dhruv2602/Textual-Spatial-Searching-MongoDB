@@ -1,0 +1,1 @@
+testData.json has the test data in JSON format. tester.py can be used to test the functionality of the program. Actual code is contained in find.py.
